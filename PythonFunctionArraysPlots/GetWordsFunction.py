@@ -13,5 +13,5 @@ def first_word_of_each_line(fileName):
             lst.append(word[0])
     return lst
 
-file="JanWeek3AssignmentProblem3textfile.py"
+file="Problemtextfile.py"
 print(first_word_of_each_line(file))
