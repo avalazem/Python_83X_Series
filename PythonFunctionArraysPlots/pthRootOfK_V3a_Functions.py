@@ -39,7 +39,7 @@ def pthRoot(p,k,tol):
 #Finding the pth root of k  k**(1/p)
 p=int(6)  #pth root should be 2 or greater and should be an integer
 k=10       #classically 2 or greater
-tol=1e-6  #Let the desired accuracey control the number of recursions
+tol=1e-8  #Let the desired accuracey control the number of recursions
 
 #Compare Results
 print("Power operator solution = ", k,"**(1/",p,") = ",k**(1/p))

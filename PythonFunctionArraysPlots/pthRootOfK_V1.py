@@ -19,7 +19,7 @@ k=2
 #Initialize the 1 and 2 Dimensional Arrays for Recursion
 B = np.ones((p,p))
 a = np.ones((p,1))
-nRec=10  #How many recursions
+nRec=15  #How many recursions
 
 #Form B with the Polynomial in k
 for row in range(0,p):

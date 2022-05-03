@@ -14,7 +14,7 @@ import numpy as np
 
 #Finding the pth root of k  k**(1/p)
 p=10
-k=10
+k=100
 
 #Initialize the 1 and 2 Dimensional Arrays for Recursion
 B = np.ones((p,p))
