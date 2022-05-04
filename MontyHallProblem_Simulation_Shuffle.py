@@ -5,6 +5,8 @@ Created on Thu Oct  22 19:23:54 2020
 
 Purpose:  Monty Hall Problem
 
+https://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/
+
 """
 
 #import the random number generator and set the seed with the date
